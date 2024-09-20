@@ -9,26 +9,26 @@ If you are a developer or an operation engineer you should read this.
 
 ## The Twelve Factors
 
-- ### **[Codebase](Codebase.md)**
+- **[Codebase](Codebase.md)**
 
-- ### **[Dependencies](Dependencies.md)**
+- **[Dependencies](Dependencies.md)**
 
-- ### **[Config](Config.md)**
+- **[Config](Config.md)**
 
-- ### **[Backing Services](BackingServices.md)**
+- **[Backing Services](BackingServices.md)**
 
-- ### **[Build, Release and Run](BuildReleaseandRun.md)**
+- **[Build, Release and Run](BuildReleaseandRun.md)**
 
-- ### **[Processes](Processes.md)**
+- **[Processes](Processes.md)**
 
-- ### **[Port Binding](PortBinding.md)**
+- **[Port Binding](PortBinding.md)**
 
-- ### **[Concurrency](Concurrency.md)**
+- **[Concurrency](Concurrency.md)**
 
-- ### **[Disposability](Disposability.md)**
+- **[Disposability](Disposability.md)**
 
-- ### **[Dev-Prod parity](Dev-ProdParity.md)**
+- **[Dev-Prod parity](Dev-ProdParity.md)**
 
-- ### **[Logs](Logs.md)**
+- **[Logs](Logs.md)**
 
-- ### **[Admin processes](Adminprocesses.md)**
+- **[Admin processes](Adminprocesses.md)**
