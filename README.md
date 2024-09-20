@@ -1,5 +1,4 @@
-# 12_factor_app
-The Twelve-Factor App
+# The Twelve-Factor App
 
 # Introducction
 "12 factor app" are twelve detailed rules contributed by the Heroku team over the last decade.
