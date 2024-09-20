@@ -7,3 +7,17 @@ world software demands, software as a service (SaaS).
 
 If you are a developer or an operation engineer you should read this.
 
+## The Twelve Factors
+
+- **[Codebase]()**
+- **[Dependencies]()**
+- **[Config]()**
+- **[Backing Services]()**
+- **[Build, Release and Run]()**
+- **[Processes]()**
+- **[Port Binding]()**
+- **[Concurrency]()**
+- **[Disposability]()**
+- **[Dev-Prod parity]()**
+- **[Logs]()**
+- **[Admin processes]()**
