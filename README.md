@@ -1,2 +1,1 @@
-# 12_factor_app
-The Twelve-Factor App
+# The Twelve-Factor App
